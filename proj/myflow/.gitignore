@@ -1,6 +1,2 @@
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
+!**/src/main/**/target/
+!**/src/test/**/target/
